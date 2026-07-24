@@ -71,8 +71,6 @@ Designed and developed a relational database for a banking loan management syste
 06-SQL-Bank-Loan-Database
 │
 ├── README.md
-├── LICENSE
-│
 ├── SQL
 │   └── bank_loan_database.sql
 │
