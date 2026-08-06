@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Database Management System
+# 🏦 Financial Loan Database Management System
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
@@ -68,7 +68,7 @@ Designed and developed a relational database for a banking loan management syste
 ## 📂 Folder Structure
 
 ```text
-06-SQL-Bank-Loan-Database
+06-SQL-Financial-Loan-Database
 │
 ├── README.md
 ├── SQL Analysis
